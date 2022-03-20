@@ -1,4 +1,4 @@
-# Project Title -- al Mohamady Sample
+# Project Title 
 
 One Paragraph of project description goes here
 
@@ -58,21 +58,21 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [school 4 div](http://school4dev.blogspot.com/) - The web framework used
-* [code father](https://www.youtube.com/user/theCodeFather00) - Dependency Management
-* [Git course](https://www.youtube.com/watch?v=6DDOB1meDQA&list=PLqPejUavRNTXejD5npdmFbe6NU6dTJLhW) - Used to generate RSS Feeds
+* [Android Studio](https://developer.android.com/studio/) - the fastest tools for building apps on every type of Android device.
+* [java](https://www.java.com/en/) - Programming Language
+* [GitHub](https://github.cob) - Internet repository and version control system.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/alMohamady/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://https://gist.github.com/suhailSallam) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [alMohamady](http://school4dev.blogspot.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [Suhail sallam](https://github.com/suhailSallam/) for versioning. For the versions available, see the [tags on this repository](https://github.com/suhailSallam/tags). 
 
 ## Authors
 
-* **Ahmed Mohamady** - *Initial work* - [alMohamady](http://school4dev.blogspot.com/)
+* **Suhail Sallam** - *Initial work* - [Suhail Sallam](https://github.com/suhailSallam/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
